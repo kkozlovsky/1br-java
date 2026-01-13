@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="VectorApiSolution" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="25" />
+    <option name="MAIN_CLASS_NAME" value="org.example.VectorApiSolution" />
+    <module name="1br-java" />
+    <option name="VM_PARAMETERS" value="--enable-preview --add-modules jdk.incubator.vector" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
